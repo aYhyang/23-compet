@@ -3,8 +3,6 @@
 
 ### 结果演示
 
-![](https://github.com/aYhyang/resource/map1.gif)
-
 ![](./resource/map2.gif)
 
 ### 任务简述

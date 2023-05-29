@@ -5,7 +5,7 @@
 
 ![](./resource/map1.gif)
 
-<!-- ![](./resource/map2.gif) -->
+![](./resource/map2.gif)
 
 ### 任务简述
 

@@ -3,7 +3,7 @@
 
 ### 结果演示
 
-![](./resource/map1.gif)
+<!-- ![](./resource/map1.gif) -->
 
 ![](./resource/map2.gif)
 
